@@ -1,0 +1,4 @@
+scratch/
+.system_generated/
+node_modules/
+*.log
